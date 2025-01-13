@@ -1,0 +1,2 @@
+it is a sample text written by me
+it is the text apppeded using WriteFileSync method
